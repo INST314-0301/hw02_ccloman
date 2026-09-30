@@ -1,4 +1,4 @@
-# Cloman Chandler
+# Cloman, Chandler
 rm(list = ls())
 library(tidyverse)
 
